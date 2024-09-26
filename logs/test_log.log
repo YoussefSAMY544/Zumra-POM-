@@ -1,0 +1,28 @@
+2024-09-26 09:18:03,335:INFO:Test started
+2024-09-26 09:18:03,335:INFO:====== WebDriver manager ======
+2024-09-26 09:18:04,337:INFO:Get LATEST chromedriver version for google-chrome
+2024-09-26 09:18:04,496:INFO:Get LATEST chromedriver version for google-chrome
+2024-09-26 09:18:04,650:INFO:Driver [C:\Users\YoussefAbourabeh\.wdm\drivers\chromedriver\win64\129.0.6668.70\chromedriver-win32/chromedriver.exe] found in cache
+2024-09-26 09:18:27,695:INFO:Screenshot saved: screenshots\test_login_with_wrong_phone.png
+2024-09-26 09:18:29,934:INFO:Test finished
+2024-09-26 09:25:02,736:INFO:Test started
+2024-09-26 09:25:02,736:INFO:====== WebDriver manager ======
+2024-09-26 09:25:03,764:INFO:Get LATEST chromedriver version for google-chrome
+2024-09-26 09:25:03,924:INFO:Get LATEST chromedriver version for google-chrome
+2024-09-26 09:25:04,082:INFO:Driver [C:\Users\YoussefAbourabeh\.wdm\drivers\chromedriver\win64\129.0.6668.70\chromedriver-win32/chromedriver.exe] found in cache
+2024-09-26 09:25:26,908:INFO:Screenshot saved: screenshots\test_login_with_wrong_phone.png
+2024-09-26 09:25:29,144:INFO:Test finished
+2024-09-26 09:41:20,432:INFO:Test started
+2024-09-26 09:41:20,432:INFO:====== WebDriver manager ======
+2024-09-26 09:41:21,332:INFO:Get LATEST chromedriver version for google-chrome
+2024-09-26 09:41:21,496:INFO:Get LATEST chromedriver version for google-chrome
+2024-09-26 09:41:21,651:INFO:Driver [C:\Users\YoussefAbourabeh\.wdm\drivers\chromedriver\win64\129.0.6668.70\chromedriver-win32/chromedriver.exe] found in cache
+2024-09-26 09:41:44,283:INFO:Screenshot saved: screenshots\test_login_with_wrong_phone.png
+2024-09-26 09:41:46,478:INFO:Test finished
+2024-09-26 09:45:29,112:INFO:Test started
+2024-09-26 09:45:29,112:INFO:====== WebDriver manager ======
+2024-09-26 09:45:30,025:INFO:Get LATEST chromedriver version for google-chrome
+2024-09-26 09:45:30,194:INFO:Get LATEST chromedriver version for google-chrome
+2024-09-26 09:45:30,350:INFO:Driver [C:\Users\YoussefAbourabeh\.wdm\drivers\chromedriver\win64\129.0.6668.70\chromedriver-win32/chromedriver.exe] found in cache
+2024-09-26 09:45:53,064:INFO:Screenshot saved: screenshots\test_login_with_wrong_phone.png
+2024-09-26 09:45:56,274:INFO:Test finished
