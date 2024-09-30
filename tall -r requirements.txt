@@ -1,0 +1,29 @@
+warning: in the working copy of '.idea/workspace.xml', LF will be replaced by CRLF the next time Git touches it
+[1mdiff --git a/.idea/workspace.xml b/.idea/workspace.xml[m
+[1mindex 2973320..d362cd9 100644[m
+[1m--- a/.idea/workspace.xml[m
+[1m+++ b/.idea/workspace.xml[m
+[36m@@ -5,22 +5,7 @@[m
+   </component>[m
+   <component name="ChangeListManager">[m
+     <list default="true" id="5117976c-6046-4ec8-a078-c68f21e16a23" name="Changes" comment="">[m
+[31m-      <change afterPath="$PROJECT_DIR$/.idea/Zumra(POM).iml" afterDir="false" />[m
+[31m-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />[m
+[31m-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />[m
+[31m-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />[m
+[31m-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />[m
+[31m-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />[m
+[31m-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />[m
+[31m-      <change afterPath="$PROJECT_DIR$/pages/__init__.py" afterDir="false" />[m
+[31m-      <change afterPath="$PROJECT_DIR$/pages/home_page.py" afterDir="false" />[m
+[31m-      <change afterPath="$PROJECT_DIR$/pages/login_page.py" afterDir="false" />[m
+[31m-      <change afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />[m
+[31m-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />[m
+[31m-      <change afterPath="$PROJECT_DIR$/tests/__init__.py" afterDir="false" />[m
+[31m-      <change afterPath="$PROJECT_DIR$/tests/conftest.py" afterDir="false" />[m
+[31m-      <change afterPath="$PROJECT_DIR$/tests/test_base.py" afterDir="false" />[m
+[31m-      <change afterPath="$PROJECT_DIR$/tests/test_login_with_wrong_phone.py" afterDir="false" />[m
+[32m+[m[32m      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />[m
+     </list>[m
+     <option name="SHOW_DIALOG" value="false" />[m
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />[m
